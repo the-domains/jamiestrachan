@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.234797
+  lightness: 0.393581
+  rhythmicContrast: 0.854729
+  saturation: 0.584459
+cta: {}
+layout_spectrum: 0.483108
+name: JamieStrachan
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.12276796194884954
